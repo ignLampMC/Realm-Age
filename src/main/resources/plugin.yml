@@ -1,0 +1,7 @@
+name: RealmAge
+version: '${project.version}'
+main: me.ignlamp.core.Core
+api-version: 1.19
+description: See how long a server is online for
+softdepend:
+  - PlaceholderAPI
